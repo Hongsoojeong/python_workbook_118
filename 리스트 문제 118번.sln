@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "리스트 문제 118번", "리스트 문제 118번\리스트 문제 118번.pyproj", "{F940397C-74D6-4A9C-AB66-61404363C074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F940397C-74D6-4A9C-AB66-61404363C074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F940397C-74D6-4A9C-AB66-61404363C074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF9AE63-A356-4F37-888A-97763BC022B3}
+	EndGlobalSection
+EndGlobal
